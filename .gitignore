@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+channel_members.json
+.venv/
+venv/
